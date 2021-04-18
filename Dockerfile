@@ -1,0 +1,1 @@
+FROM gcr.io/kubernetes-helm/tiller:v3.5.4 MAINTAINER guoj1n@live.com
